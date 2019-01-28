@@ -3,6 +3,9 @@ Code for our TACL 2017 Submission titled "Joint Matrix-Tensor Factorization for 
 
 Joint Matrix-Tensor Factorization for Knowledge Base Inference, Prachi Jain*, Shikhar Murty*, Mausam, Soumen Chakrabarti  (*Equal Contribution)
 
+# Official repository (actively maintained)
+[link](https://github.com/dair-iitd/KBI)
+
 # Running instructions
 First clone the repository:
 ```
